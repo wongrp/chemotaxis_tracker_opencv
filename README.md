@@ -1,7 +1,7 @@
 # chemotaxis_tracker
 
 # Chemotaxis Tracker
-Image processor for chemotaxis videos integrated with detector and tracker, using OpenCV package.
+Image processor for chemotaxis videos integrated with detector and tracker, using OpenCV tracking API. For next a similar tracking program using IOU, see chemotaxis_tracker_iou.
 
 ## Packages
 Numpy, matplotlib \
